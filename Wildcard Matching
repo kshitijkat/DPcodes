@@ -1,5 +1,6 @@
 bool isMatch(string str, string pattern){
         int n=str.size();
+        int a=0;
         int m=pattern.size();
 if (m == 0) 
         return (n == 0); 
