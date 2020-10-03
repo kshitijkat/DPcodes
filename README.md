@@ -1,4 +1,5 @@
 What you may learn here?
+
 This repository contains some useful codes, techniques, algorithms, data structures and problem solutions helpful in Dynamic Programming.
 
 Language: C++
@@ -10,4 +11,6 @@ List of solutions
 2-egg dropping problem
 
 3-Min path sum 
+
+4-Decode Ways
 
