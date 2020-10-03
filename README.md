@@ -5,4 +5,8 @@ Language: C++
 
 List of solutions
 1-Wildcard matching
+
 2-egg dropping problem
+
+3-Min path sum 
+
