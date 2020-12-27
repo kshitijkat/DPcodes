@@ -1,12 +1,13 @@
 # Dynamic-Programming-Solutions
 
-# What you may learn here?
+## What you may learn here?
 
 This repository contains some useful codes, techniques, algorithms, data structures and problem solutions helpful in Dynamic Programming.
 
-# Language: C++
+## Language: 
+C++
 
-# List of solutions
+## List of solutions
 
 1-Wildcard matching
 
