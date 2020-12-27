@@ -4,7 +4,7 @@
 
 This repository contains some useful codes, techniques, algorithms, data structures and problem solutions helpful in Dynamic Programming.
 
-## Language: 
+## Language:-
 C++
 
 ## List of solutions
